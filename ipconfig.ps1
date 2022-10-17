@@ -1,1 +1,1 @@
-ipconfig /all write-host
+ipconfig /all
